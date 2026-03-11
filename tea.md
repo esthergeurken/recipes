@@ -4,6 +4,7 @@
 * teabag
 
 ## Instructions
-* Boil water
-* Add to mug
-* Add teabag
+1. Boil water
+2. Add to mug
+3. Add teabag
+
